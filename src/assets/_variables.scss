@@ -1,0 +1,32 @@
+/* Colors */
+$black: rgba(10,10,10,1);
+$white: rgba(255,255,255,1);
+
+$Colors-Black-10: rgba($black,0.1);
+$Colors-Black-50: rgba($black,0.5);
+$Colors-Black-100: rgba($black,1);
+
+/* Gradeints */
+$gradient-light: linear-gradient(to bottom, rgba($white,1) 0%, rgba($white,0) 100%);
+
+/* Fonts */
+$font-family-main: 'Inter', sans-serif;
+$font-size-base: 12px;
+$font-size-xs: 12px;
+$font-size-sm: 14px;
+$font-size-md: 16px;
+
+/* Border-radius */
+$br-xs: 5px;
+$br-sm: 10px;
+
+$Syntax-Radius-Cards-Small-card: $br-xs;
+$Syntax-Radius-Cards-Medium-card: $br-sm;
+
+/* Spacing */
+$spacing-xs: 2.5px;
+$spacing-sm: 5px;
+$spacing-md: 10px;
+$spacing-lg: 15px;
+
+$Syntax-Gaps-Cards-Medium-card: $spacing-md;

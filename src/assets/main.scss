@@ -1,0 +1,14 @@
+@import '@/assets/_variables.scss';
+
+/* General Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: 'Roboto', sans-serif;
+  background-color: $black;
+}
